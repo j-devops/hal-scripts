@@ -5,6 +5,8 @@ Some openapi test scripts
 
 ## Getting Started
 
+#### API stuff
+
 1. Open account at openai - https://platform.openai.com/account/
 2. Create a API key - https://platform.openai.com/account/api-keys
 3. Load key into .env and setup gitignore
@@ -20,14 +22,19 @@ API_KEY = "sk-mysupersecretkey"
 # Ignore node_modules folder
 node_modules
 
-# Ignore all text files
-*.txt
-
 # Ignore files related to API keys
 .env
 
 # Ignore SASS config files
 .sass-cache
 (base) jason@jlan-basement:~/hal-scripts$
+```
 
+##### Run some pip installs or leverage the requirement.txt
+```
+pip install -r requirements.txt
+```
+##### Test
+```
+(base) jason@jlan-basement:~/hal-scripts$ python hal_sysinfo.py
 ```
