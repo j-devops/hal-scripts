@@ -5,6 +5,8 @@ Some openapi test scripts
 
 ## Getting Started
 
+####API stuff
+
 1. Open account at openai - https://platform.openai.com/account/
 2. Create a API key - https://platform.openai.com/account/api-keys
 3. Load key into .env and setup gitignore
@@ -28,7 +30,7 @@ node_modules
 (base) jason@jlan-basement:~/hal-scripts$
 ```
 
-### Run some pip installs or leverage the requirement.txt
+##### Run some pip installs or leverage the requirement.txt
 ```
 pip install -r requirements.txt
 ```
