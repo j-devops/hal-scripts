@@ -20,14 +20,15 @@ API_KEY = "sk-mysupersecretkey"
 # Ignore node_modules folder
 node_modules
 
-# Ignore all text files
-*.txt
-
 # Ignore files related to API keys
 .env
 
 # Ignore SASS config files
 .sass-cache
 (base) jason@jlan-basement:~/hal-scripts$
+```
 
+### Run some pip installs or leverage the requirement.txt
+```
+pip install -r requirements.txt
 ```
