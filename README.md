@@ -5,7 +5,7 @@ Some openapi test scripts
 
 ## Getting Started
 
-####API stuff
+#### API stuff
 
 1. Open account at openai - https://platform.openai.com/account/
 2. Create a API key - https://platform.openai.com/account/api-keys
