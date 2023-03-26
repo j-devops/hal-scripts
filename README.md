@@ -34,3 +34,7 @@ node_modules
 ```
 pip install -r requirements.txt
 ```
+##### Test
+```
+(base) jason@jlan-basement:~/hal-scripts$ python hal_sysinfo.py
+```
