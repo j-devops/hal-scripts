@@ -38,3 +38,7 @@ pip install -r requirements.txt
 ```
 (base) jason@jlan-basement:~/hal-scripts$ python hal_sysinfo.py
 ```
+
+## Inventory Database
+
+A simple HTML page, `inventory.html`, provides a local inventory tracker using your browser's local storage. Open the file in a web browser and add items to build a small inventory table. Items can be removed with the **Delete** button.
